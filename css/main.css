@@ -2,3 +2,78 @@ body {
     background-color: #222;
     color: #999;
 }
+
+
+.center {
+    align-content: center;
+    text-align: center;
+}
+.right {
+    align-content: right;
+    text-align: right;
+}
+.pgn {
+    align-content: left;
+}
+
+.title {
+    padding-top: 50px;
+    font-size: 16pt;
+    font-weight: bold;
+    /* color: #75CC00; */
+    color: #ff9900;
+}
+
+.debug {
+    height: 50px;
+    margin-bottom: 10px;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.buttons {
+    padding-top: 20px;
+}
+
+.error {
+    height: 100px;
+    margin-top: 10px;
+    /* background: #ff0000; */
+    font-size: 10pt;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+#correct {
+    font-size: 12pt;
+    font-weight: bold;
+    color: #1eff00;
+}
+#incorrect {
+    font-size: 12pt;
+    font-weight: bold;
+    color: #ff0000;
+}
+#puzzleCounter {
+    font-size: 20pt;
+    font-weight: bold;
+    color: #1eff00;
+}
+
+.botton {
+    padding-top: 20px;
+    
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    color: #ffebc5;
+}
+
+.success {
+    font-size: 20pt;
+    font-weight: bold;
+    color: #1eff00;
+}
